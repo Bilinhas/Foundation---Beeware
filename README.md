@@ -8,8 +8,7 @@ _1- Proposta feita pela_ **APPLE**\
 _2- Linguagem utilizada_\
 _3- Membros da equipe_\
 _4- Nossa_ **BIG IDEA**\
-_5- Nosso_ **APP**\
-_6-_ **Upgrades**\
+_5-_ **Upgrades**\
 Obrigado por ler! <br> </br>
 
 
@@ -23,10 +22,6 @@ Esse "Desafio" em si seria fazer um APLICATIVO cujo qual poderiamo suprimir\
 As "Confusões" de um certo grupo de pessoas, cujo qual nós deveriamos escolher.<br> </br>
 Em outras palavras deveriamos criar uma plataforma feita para ajudar pessoas \
 Com casos em particular.<br> </br>
-O nosso projeto foi feito para ajudar pessoas "leigas" a se tornarem informadas sobre\
-Computadores e seus componetes, Não somente isso mas como támbem ajudar esse grupo especifico/
-De pessoas a acharem de uma forma segura e organizada os componetes de computadores que\
-Essas pessoas estejam precisando.<br> </br>
 
 ### 2- A linguagem 
 
@@ -71,6 +66,21 @@ Saber como ficaria o design das telas e etc..._<br> </br>
 _O_ **Riquelmy Ricarte** _atuou como o Programador "Secundario" auxiliando o dev princ. com\
 Os codigos das telas, as funções dentro do aplicativo, também ajudou com os designs com ideias\
 E ele também estava ajudando a todos da equipe com o que fosse nessecário_<br> </br>
+
+### 4- BIG IDEA 
+
+A nossa "big idea" ou a Gande ideia do nosso projeto é Computadores e Educação, abaixo um resumo mas aprofundado do que se trata.<br> </br>
+O nosso projeto foi feito para ajudar pessoas "leigas" a se tornarem informadas sobre
+Computadores e seus componetes, Não somente isso mas como támbem ajudar esse grupo especifico/ De pessoas a acharem de uma forma segura e organizada os componetes de computadores que
+Essas pessoas estejam precisando. <br> </br>
+
+### 5- Upgrades
+
+Que tal debater sobre possiveis futuras modificações que poderiam occorrer no nosso aplicativo.<br> </br>
+Temos como objetivo criar um login para os nosso usuarios terem um perfil para diversos motivos\
+Também criar uma tela em que as pessoas montem seu proprio computador de uma forma 3D(não vou entrar em detalhes)\
+Deixar o aplicativo mais interativo e educacional, de qual forma ainda não sabemos\
+etc...
 
 
 
