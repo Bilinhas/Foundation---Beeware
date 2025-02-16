@@ -4,12 +4,12 @@
 
 ### INTRODUÇÂO.
 
-_1- Proposta feita pela_ **APPLE**\
-_2- Linguagem utilizada_\
-_3- Membros da equipe_\
-_4- Nossa_ **BIG IDEA**\
-_5-_ **Upgrades**\
-Obrigado por ler! <br> </br>
+_1- Proposta feita pela_ **APPLE** \
+_2- Linguagem utilizada_ \
+_3- Membros da equipe_ \
+_4- Nossa_ **BIG IDEA** \
+_5-_ **Upgrades** 
+
 
 
 ### 1- A proposta
@@ -82,5 +82,7 @@ Também criar uma tela em que as pessoas montem seu proprio computador de uma fo
 Deixar o aplicativo mais interativo e educacional, de qual forma ainda não sabemos\
 etc...
 
+<br> </br>
+## Obrigado por ler! 
 
 
