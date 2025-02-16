@@ -1,8 +1,8 @@
-# Foundation---Beeware
-### Esse repositorio é referente ao TRABALHO DE M.F.D.S. | PROJETO DA APPLE.
+# FOUNDATION - BEEWARE GROUP
+### Esse repositorio é referente ao TRABALHO DE M.F.D.S. | PROJETO DA APPLE
 
 
-### TÓPICOS
+### INTRODUÇÂO.
 
 _1- Proposta feita pela_ **APPLE**\
 _2- Linguagem utilizada_\
